@@ -1,1 +1,18 @@
+html,
+body {
+  margin: 0;
 
+  height: 100%;
+}
+div {
+  width: 100%;
+
+  height: 100%;
+}
+.div {
+  background-image: url(./photo/back3.jpg);
+
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+  background-position: center;
+}
